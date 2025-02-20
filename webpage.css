@@ -1,0 +1,35 @@
+.banner-div {
+    display: block;
+    justify-content: center;
+    background-color: rgb(167, 135, 76);
+    border-radius: 1rem;
+    border-style: ridge;
+    border-width: thick;
+}
+.text {
+    border-style: groove;
+    height: 200px;
+}
+.nav li {
+    display: inline-block;
+}
+
+body {
+    background-color: rgb(182, 180, 144);
+}
+
+img {
+    border-radius: 2rem;
+}
+
+ul {
+    display: block;
+    margin: 4rem;
+}
+li {
+    list-style-type: square;
+    padding: 1rem;
+}
+hr {
+    
+}
